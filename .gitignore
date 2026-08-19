@@ -1,1 +1,10 @@
-
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+venv/
+channel_bot.db
+channel_bot.db-shm
+channel_bot.db-wal
